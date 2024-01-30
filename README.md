@@ -22,5 +22,4 @@ Messages interface:
 
 ![Screenshot 2022-05-27 at 12 02 48 AM](https://user-images.githubusercontent.com/92638241/172023661-30e7d4dc-004a-497b-ac8a-0ec742af26f8.png)
 
-
-
+Final version shifted to [speakeasy-backend]([url](https://github.com/TirelessClock/speakeasy-backend)https://github.com/TirelessClock/speakeasy-backend) and [speakeasy-frontend]([url](https://github.com/TirelessClock/speakeasy-frontend)https://github.com/TirelessClock/speakeasy-frontend)
